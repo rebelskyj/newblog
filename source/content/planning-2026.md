@@ -1,3 +1,11 @@
+---
+title: Planning 2026
+tags:
+  - planning
+  - reflection
+  - blog
+---
+properties:
 First published: 30 December 2025
 
 ## Draft 2: 2025  December 30 
