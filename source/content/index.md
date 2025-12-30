@@ -1,5 +1,4 @@
 ---
-title: My GitHub Pages Notebook!
+title: New Blog
+tgs:
 ---
-
-Testing if this new method works!
