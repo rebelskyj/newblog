@@ -9,45 +9,31 @@ Let's start by finding the list of things I said the other day when I wrote a dr
 1. Be a better me
 2. Find a new place to live
 3. More in Analog
-
-1. Reading
-
-1. Print out the web novels I read
-2. Read from library
-
-2. Writing
-
-1. Journal
-2. Write letters
-
+	1. Reading
+		1. Print out the web novels I read
+		2. Read from library
+	2. Writing
+		1. Journal
+		2. Write letters
 4. More writing generally
-
-1. Letter and journal (from above)
-2. This site right here!^[and figure out how to make the blog run on md rather than tex]
-
+	1. Letter and journal (from above)
+	2. This site right here!^[and figure out how to make the blog run on md rather than tex]
 5. Music
-
-1. Composition^[use the VST]
-2. Singer Songwriter
-3. Just jam
-4. Open mics
-5. With friends
-
+	1. Composition^[use the VST]
+	2. Singer Songwriter
+	3. Just jam
+	4. Open mics
+	5. With friends
 6. Jewish identity
-
-1. Go to events more
-2. Learn Hebrew
-3. Look at other shuls/synagogues
-
+	1. Go to events more
+	2. Learn Hebrew
+	3. Look at other shuls/synagogues
 7. Quebecois
-
-1. Learn it
-
+	1. Learn it
 8. Be a better friend
-
-1. Visit more
-2. Letters (from above)
-3. Make the spreadsheet and actually use it!^[I think that the best option might end up being a cute little Obsidian notes? that way the reminders exist for me? eh something to consider]
+	1. Visit more
+	2. Letters (from above)
+	3. Make the spreadsheet and actually use it!^[I think that the best option might end up being a cute little Obsidian notes? that way the reminders exist for me? eh something to consider]
 
 Ok so those goals occupy a number of different spaces.  
 I find it interesting that I didn't put fitness there.  
