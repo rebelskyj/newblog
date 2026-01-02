@@ -4,9 +4,10 @@ tags:
   - planning
   - reflection
   - blog
+date: 2025-12-30
+aliases:
 ---
 properties:
-First published: 30 December 2025
 
 ## Draft 2: 2025  December 30 
 
