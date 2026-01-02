@@ -1,4 +1,4 @@
----  
+---
 title: On Consumption  
 tags:  
   - reflection  
@@ -7,7 +7,7 @@ tags:
   - listening  
   - growth  
   - introspection  
-  - ramble  
+  - ramble
 date: 2026-1-2  
 ---
 
