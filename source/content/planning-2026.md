@@ -4,7 +4,6 @@ tags:
   - planning
   - reflection
   - blog
-date: 2025-12-30
 aliases:
 ---
 properties:

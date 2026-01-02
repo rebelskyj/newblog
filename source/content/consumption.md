@@ -1,14 +1,14 @@
 ---
 title: On Consumption  
 tags:  
-  - reflection  
-  - blog  
-  - music  
-  - listening  
-  - growth  
-  - introspection  
-  - ramble
-date: 2026-01-02  
+  - reflection
+  - blog
+  - music
+  - listening
+  - growth
+  - introspection
+  - ramble
+date: 2026-1-2
 ---
 
 # Draft 2: 2 January 2026
