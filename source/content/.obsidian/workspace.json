@@ -15,7 +15,7 @@
               "state": {
                 "file": "planning-2026.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "planning-2026"
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "consumption.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "consumption"
+              "title": "index"
             }
           }
         ],
@@ -187,8 +187,8 @@
   },
   "active": "ce5ab19606ea33e4",
   "lastOpenFiles": [
-    "planning-2026.md",
     "consumption.md",
+    "planning-2026.md",
     "index.md",
     "todo.md",
     "on-consumption.md",
