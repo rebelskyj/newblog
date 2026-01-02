@@ -8,7 +8,7 @@ tags:
   - growth  
   - introspection  
   - ramble
-date: 2026-1-2  
+date: 2026-01-02  
 ---
 
 # Draft 2: 2 January 2026
