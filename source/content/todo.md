@@ -21,3 +21,13 @@ aliases:
 	2. Unsubscribe from Nebula channels
 	3. Check what subscriptions I have that I pay for
 	4. RR subscriptions
+	5. Find the songs listed in the Polyphonic video
+	6. Read!
+3. Content Creation
+	1. Write songs
+	2. Record Songs
+	3. Use VST
+	4. ROTATIONAL SPEC PAPER
+	5. Rot spec videos
+4. Other
+	1. Sign up for classes
