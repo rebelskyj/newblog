@@ -8,6 +8,7 @@ tags:
   - reflection
   - blog
 aliases:
+date: 2026-02-07
 ---
 # Draft 1: I think that I'm going to start having drafts chronological, rather than reverse chronology.
 

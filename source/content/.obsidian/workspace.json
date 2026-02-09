@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "creating-for-others.md",
-                "mode": "source",
+                "file": "hingeless.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "creating-for-others"
+              "title": "hingeless"
             }
           }
         ],
@@ -199,10 +199,14 @@
   },
   "active": "3f886427404b664a",
   "lastOpenFiles": [
-    "planning-2026.md",
-    "index.md",
-    "todo.md",
     "creating-for-others.md",
+    "todo.md",
+    "planning-2026.md",
+    "hingeless.md",
+    "index.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Untitled.md",
     "consumption.md",
     "on-consumption.md",
     "Untitled(1).md",
